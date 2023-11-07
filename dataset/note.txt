@@ -1,0 +1,10 @@
+trong giá trị có thể chứa dấu cách thừa
+đại đa số giá trị là str (cần tách str lấy giá trị)
+Camera là 4: Quad, 3: Triple, 2: Dual, 1: Single, 0: None
+
+Trong Feature: 
+Sensors luôn có giá trị, None là '' (str)
+;v còn mấy chức năng khác nữa (Messaging, Games, browser, Java) nhưng nó không để selector nên lọc ra cực vcl nên tui bỏ luôn nhá =))
+Mấy chức năng này điện thoại cục gạch nó mới có thôi nên lấy thì cũng toàn null với không chắc sài được
+
+Price có thể None

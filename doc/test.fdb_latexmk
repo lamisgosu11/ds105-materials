@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1699206638 "d:/University/2023-2024/HK1/DS105/Final/doc/test.tex" "test.pdf" "test" 1699206638 0
+  "C:/Tex/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Tex/MiKTeX/tex/latex/base/article.cls" 1698826601 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "C:/Tex/MiKTeX/tex/latex/base/size10.clo" 1698826601 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "C:/Tex/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1698073837 29988 bb6a6635dd6c1ccb32cf27163b4e39bb ""
+  "C:/Users/marsen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1699206299 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/marsen/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1699206436 24198298 e9cd6dad44e3a2abe211ce306a0d2712 ""
+  "d:/University/2023-2024/HK1/DS105/Final/doc/test.tex" 1699206637 152 c023dfc2602e0f4de9a3d52833171499 ""
+  "test.aux" 1699206638 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1699206637 152 c023dfc2602e0f4de9a3d52833171499 ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)

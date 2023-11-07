@@ -1,4 +1,4 @@
-SavePath: "Final/data/PhoneSpecsBatch/"
+SavePath: "dataset/PhoneSpecsBatch/"
 files: "Devices_Specs"
 
 conversion_rates: { "$": 0.94, "£": 1.15, "₹": 0.011 }
@@ -27,6 +27,9 @@ variables:
     "NETWORK_5G_bands",
     "NETWORK_Speed",
     "NETWORK_Technology",
+    "BODY_Length",
+    "BODY_Width",
+    "BODY_Thickness",
   ]
 
 fillna_retrain_variables:
